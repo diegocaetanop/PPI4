@@ -64,21 +64,6 @@
         </div>
     </header>
 
-    <!--<section class="container-fluid" id="sobre">
-        <div class="row">
-            <div class="col-sm-8 offset-sm-2 text-center">
-                <h1 class="h1">Sobre</h1>
-                <div id="fotografo">
-                    <img src="img/vinicius.jpg" alt="fotografo vinicius" id="foto" class='wow fadeInDown'>
-                    <p class="lead wow fadeInUp">Bootstrap is a free collection of tools for creating websites and web applications. It contains HTML
-                        and CSS-based design templates for typography, forms, buttons, navigation and other interface components,
-                        as well as optional JavaScript extensions. It is the No.1 project on GitHub with 65,000+ stars and
-                        23,800 forks (as of March 2014) [1] and has been used by NASA and MSNBC, among many others..</p>
-                    <br>
-                </div>
-            </div>
-        </div>
-    </section>-->
     <div class="sobre" id="sobre">
         <div class="texto">
             <h3>Sobre</h3>
@@ -170,27 +155,7 @@
 
 
     <div class="text-center" id="social">
-        <!--<h3>Siga-nos</h3>
-        <div class="linha justify-content-sm-center">
-            <div class="midia">
-                <a href="" title="Instagram">
-                    <img src="img/logo-instagram.png" alt="logo intagram" class="imgSociais">
-                </a>
-                <h6 class="d-none d-sm-inline-flex">Instagram</h6>
-                <a href="tel:559946-1991" title="Whatsapp">
-                    <img src="img/logo-whats.png" alt="logo whatsapp" class="imgSociais">
-                </a>
-                <h6 class="d-none d-sm-inline-flex">Whatsapp</h6>
-                <a href="https://www.facebook.com/luistochero/"  title="Facebook">
-                    <img src="img/logo-face.png" alt="logo facebook" class="imgSociais">
-                </a>
-                <h6 class="d-none d-sm-inline-flex" title="Email">Facebook</h6>
-                <a class="a" href="mailto:luistochero@hotmail.com" title="Email">
-                    <img src="img/logo-email.png" alt="logo facebook" class="imgSociais">
-                </a>
-                <h6 class="d-none d-sm-inline-flex"> E-mail</h6>
-            </div>
-        </div>-->
+        
         <h3>Verifique a disponibilidade na data que deseja.</h3>
         <div class="linha justify-content-sm-center">
             <form method="post" id="eventos">

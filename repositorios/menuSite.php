@@ -6,7 +6,7 @@ function menuSite($path){
         
         <div class='conteiner container'>
         
-            <a class='scroll navbar-brand' href='../#home'  title='Luis fotografias'><img src='$path"."img/LuisVinicius.png' id='logo' style='width: 60px;' alt='luis vinicius fotografias'>PPI</a>
+            <a class='scroll navbar-brand' href='../#home'  title='PPI4Sem'>PPI</a>
             <button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#navbarSite'> 
 
                 <span class='navbar-toggler-icon'></span>

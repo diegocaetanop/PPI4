@@ -6,7 +6,7 @@ function menuUsuario($link,$path,$inicial,$escolha,$payment,$download){
         
         <div class='conteiner container'>
         
-            <a class='scroll navbar-brand' href='$inicial'><img src='$path"."img/LuisVinicius.png' id='logo' style='width: 60px;' alt='luis vinicius fotografias'>PPI</a>
+            <a class='scroll navbar-brand' href='$inicial'>PPI</a>
             <button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#navbarSite'> 
 
                 <span class='navbar-toggler-icon'></span>

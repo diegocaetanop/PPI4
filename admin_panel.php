@@ -20,7 +20,7 @@
         <div class="conteiner container">
 
             <a class="scroll navbar-brand" href="http://localhost/ppi4sem/">
-                <img src="http://localhost/ppi4sem/img/LuisVinicius.png" id="logo" style="width: 60px;" alt="luis vinicius fotografias">PPI</a>
+                PPI</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSite">
 
                 <span class="navbar-toggler-icon"></span>

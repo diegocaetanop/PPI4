@@ -1,0 +1,31 @@
+.formulario-login{
+    margin-bottom: 20vh;
+    margin-top: 30vh;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(18, 17, 17,0.2);
+    border-radius: 15px;
+    padding: 35px;
+}
+.formulario-login:hover{
+    background-color: rgba(18, 17, 17,0.5);
+    transition: .8s;
+}
+.input{
+    margin: 5px 0px 5px 0px;
+    border-radius: 10px;
+    padding: 5px;
+    width: 240px;
+}
+.enviar{
+    padding: 5px 20px;
+    cursor: pointer;
+}
+
+#login{
+    background-image: url(../img/belly-couple-expecting-208509.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}

@@ -1,0 +1,17 @@
+.info{
+    margin: 10vh auto;
+    width: 50%;
+}
+@media(max-width:650px){
+    .info{
+        margin: 10vh auto;
+        width: 90%;
+    }
+}
+p{
+    color:#1d2124;
+    font-family: sans-serif;
+}
+#passaValor{
+    display: none;
+}

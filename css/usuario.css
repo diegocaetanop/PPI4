@@ -1,0 +1,32 @@
+.cliente{
+    display: inline-block;
+    align-content: center;
+    align-items: center;
+    margin-left: 35%;
+    margin-top: 10vh;
+}
+
+.escolher{
+    padding: 20px 50px 20px 50px;
+    color: #2f2f2f;
+    background-color: rgba(6, 190, 225, 0.90);
+    margin: 10px;
+}
+
+.escolher:hover{
+    background-color: rgba(6, 190, 225, 0.74);
+    color: #2f2f2f;
+    text-decoration: none;
+}
+
+.txt-user{
+    color:#2f2f2f;
+}
+.erro{
+    width: 50%;
+    margin: 0px auto;
+    background:rgba(6, 190, 225, 0.1);
+    border-radius:5px;
+    padding:10px;
+    box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.5);
+}

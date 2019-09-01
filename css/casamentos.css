@@ -1,0 +1,37 @@
+.menuServico{
+    width: 100%;
+    margin-left: -35px;
+    margin-top: 10vh;
+}
+.menuServico ul{
+    display: inline-flex;
+    text-decoration: none;
+    list-style: none;
+}
+.menuServico li{
+    margin-left: 10px;
+    text-decoration: none;
+}
+.menuServico a{
+    padding: 10px 25px;
+    text-decoration: none;
+    color: #2f2f2e;
+    background-color:rgb(218, 165, 32,0.7);
+    border-radius: 20px;
+}
+.menuServico a:hover{
+    color: #2f2f2e;
+    background-color: rgb(218, 165, 32,0.5);
+    text-decoration: none;
+    transition: .5s;
+    -webkit-transform: scale(1.03, 1.03);
+    transform: scale(1.03, 1.03);
+}
+.banner{
+    max-height: 200px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+.imgBanner{
+    max-height: 200px;
+}

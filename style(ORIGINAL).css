@@ -1,0 +1,203 @@
+
+#conteudo{ /* conteudo dentro do carrossel */
+    position: absolute;
+
+}
+
+
+/* estilização da pagina */
+
+header,img{         /* conf do header(carrossel e imgs)) */
+    width: 100%;
+    max-height: 100vh;
+}
+h1#carrossel{
+    color: #daa520;
+}
+section{        /* conf das sessoes */
+    padding-top:75px; 
+    padding-bottom:50px; 
+    min-height:100%;
+    background-color: #f8f8f8;
+    font-family:arial; 
+}
+
+/* conf da sessao SOBRE */
+#sobre{         
+   background: url(img/WhatsApp%20Image%202018-05-29%20at%2022.52.19.jpeg) fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center
+}
+#foto{
+    width: 20%;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+p{
+    color: #daa520;
+    font-family: sans-serif;
+}
+#fotografo{
+    background-image: linear-gradient(
+    to top,
+    rgba(218, 165, 32,0)0%,
+    rgba(255, 193, 39, 0.34)50%
+    );
+    border-radius: 10px;
+}
+/* fim */
+
+/* estilização propria do site para o menu */
+.conteiner {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+    margin-top: -12px;
+    margin-bottom: -12px;
+}
+#logo{
+    width: 60px;    
+}
+.bg-color{
+    background-color:rgb(218, 165, 32,0.9);
+}
+.color-font .navbar-brand{
+    color: #2f2f2e;
+}
+.color-font .navbar-nav .nav-link {
+    color: #2f2f2f;
+}
+.color-font .navbar-toggler {
+  color: #2f2f2f;
+  border-color: #2f2f2f;
+}
+.color-font .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='#2f2f2f' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+.color-font .navbar-nav a:hover{
+    color: #f8f8f8;
+}
+a#a:hover{
+    color: #daa520;
+}
+/* fim */
+
+/* estilização sessao SERVIÇOS */
+.service{
+    background-color: #ffffff;
+    padding: 10px 10px 0px 10px;
+    color: black;
+    font-family: 'Permanent Marker', cursive;
+    box-shadow: 0px 0px 20px #6d6d6d;
+    margin-top: 5px;
+}
+.service h4{
+    padding: 10px;
+}
+.service:hover{
+    -webkit-transform: scale(1.03, 1.03);
+          transform: scale(1.03, 1.03);
+  
+      transition: .4s;
+}
+/* fim */
+
+/* social*/
+#social{
+    padding: 70px;
+    background-image:linear-gradient(
+        to bottom,
+        rgba(218, 165, 32,0),
+        rgba(255, 193, 39, 0.54)10%
+    ),url(img/aniversario-casamento-boda-1920x1200.jpg); 
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+/* fim */
+
+/* estilização de CONTATO */
+#contatos{
+    
+}
+.linha{
+    min-width: 80%;
+    margin-left: 0%;
+    margin-top: 25px;
+    display: inline-block;
+}
+.linha2{
+    max-width: 100%;
+    margin-top: 25px;
+    display: inline-block;
+}
+.midia{
+    max-width: 100%;
+    display: inline-flex;
+    align-items: center;
+    font-size: auto;
+}
+.imgSociais{
+    padding: 5px;
+}
+h6{
+    margin: 0px;
+    padding: 5px;
+}
+#enderecos{
+    margin-left: 0px;
+    margin-top: 25px;
+    text-align: left;
+    width: auto;
+}
+#localizacao{
+    max-width: 100%;
+    margin-top: 20px;
+    margin-left: 0px;
+}
+iframe{
+   width: 100%;
+    height: 400px;
+}
+/* fim */
+
+/* estilização do rodape */
+footer{
+    text-align: center;
+    background-color: #daa520;
+    height: auto;
+    padding: 10px;
+}
+#divRodape{
+    text-align: left;
+    min-width: 314px;
+    max-width: auto;
+    float: left;
+}
+#divRodape2{
+    text-align: left;
+    max-width: auto;
+    margin-left: 0px;
+    float: left;
+}
+#pFooter{
+    color: #2f2f2f;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 25px;
+}
+.contatoRodape{
+    display: flex;    
+    flex-wrap: wrap;
+    width: auto;
+}
+.a{
+    color: #2f2f2f;
+}
+.a:hover{
+    text-decoration-line: none;
+    color: #FFF;
+}
